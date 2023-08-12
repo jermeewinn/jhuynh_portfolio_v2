@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from './components/Header/header.jsx';
+import Header from './components/Header/Header.jsx';
 import Nav from './components/Nav/nav.jsx';
 import About from './components/About/About.jsx';
 import Experience from './components/Experience/experience.jsx';
